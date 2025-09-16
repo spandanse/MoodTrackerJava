@@ -44,7 +44,7 @@ After completing this project, you will be able to:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/MoodTrackerJava.git
+git clone https://github.com/spandanse/MoodTrackerJava.git
 cd MoodTrackerJava
 ```
 
